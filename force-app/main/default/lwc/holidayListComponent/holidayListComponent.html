@@ -1,0 +1,17 @@
+<template>
+    <div class="slds-m-around_x-small">
+        <div class="slds-grid slds-wrap">
+            <div class="slds-col slds-size_1-of-1 slds-m-vertical_xx-small">
+                <lightning-datatable 
+                key-field="id" 
+                data={holidayList} 
+                columns={columns}
+                selected-rows={selectedHolidays}>
+                </lightning-datatable>
+            </div>
+            <div class="slds-col slds-size_1-of-1 slds-m-vertical_xx-small slds-align_absolute-center">
+                <lightning-button variant="brand" label="Save" title="Save" onclick={handleOnSaveClick}></lightning-button>
+            </div>
+        </div>
+    </div>
+</template>
