@@ -1,4 +1,4 @@
-**Analysis**
+**Instructions and Summary**
 
 - A lightning Component Tab named **Holiday** have all the list of public holidays in Canada and User can select his/her favourite holiday from the list. 
 
