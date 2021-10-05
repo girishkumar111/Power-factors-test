@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CalenderService</members>
+        <members>CalenderServiceTest</members>
+        <members>HolidayController</members>
+        <members>HolidayControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>holidayListComponent</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>Holiday</members>
+        <name>CustomTab</name>
+    </types>
+    <version>52.0</version>
+</Package>
