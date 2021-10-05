@@ -21,6 +21,11 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>ApexDevNet</members>
+        <members>Calendar_service</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <types>
         <members>Holiday</members>
         <name>CustomTab</name>
     </types>
