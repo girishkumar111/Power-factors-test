@@ -12,6 +12,15 @@
         <name>LightningComponentBundle</name>
     </types>
     <types>
+        <members>User</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>User.ManagerId</members>
+        <members>User.Selected_Holidays__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>Holiday</members>
         <name>CustomTab</name>
     </types>
